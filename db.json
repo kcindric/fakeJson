@@ -6,9 +6,11 @@
             "done":
             [
                 {
+                    "id":1,
                     "taskDone":"Pospremio kuhinju"
                 },
                 {
+                    "id":2,
                     "taskDone":"Očistio WC"
                 }
             ],
@@ -21,9 +23,11 @@
             "done":
             [
                 {
+                    "id":1,
                     "taskDone":"Očistila macama"
                 },
                 {
+                    "id":2,
                     "taskDone":"Pospremila robu u sobi"
                 }
             ],
