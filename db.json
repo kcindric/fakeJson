@@ -1,32 +1,34 @@
-[
-    {
-        "id":1,
-        "name":"Kiki",
-        "done":
-        [
-            {
-                "taskDone":"Pospremio kuhinju"
-            },
-            {
-                "taskDone":"Očistio WC"
-            }
-        ],
-        "duration":"00:33",
-        "timeCompleted":"2019-12-25T15:45"
-    },
-    {
-        "id":2,
-        "name":"Iva",
-        "done":
-        [
-            {
-                "taskDone":"Očistila macama"
-            },
-            {
-                "taskDone":"Pospremila robu u sobi"
-            }
-        ],
-        "duration":"1:15",
-        "timeCompleted":"2019-12-27T11:25"
-    }
-]
+{
+    "events":[
+        {
+            "id":1,
+            "name":"Kiki",
+            "done":
+            [
+                {
+                    "taskDone":"Pospremio kuhinju"
+                },
+                {
+                    "taskDone":"Očistio WC"
+                }
+            ],
+            "duration":"00:33",
+            "timeCompleted":"2019-12-25T15:45"
+        },
+        {
+            "id":2,
+            "name":"Iva",
+            "done":
+            [
+                {
+                    "taskDone":"Očistila macama"
+                },
+                {
+                    "taskDone":"Pospremila robu u sobi"
+                }
+            ],
+            "duration":"1:15",
+            "timeCompleted":"2019-12-27T11:25"
+        }
+    ]
+}
