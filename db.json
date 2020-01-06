@@ -19,12 +19,12 @@
         },
         {
             "id":2,
-            "name":"Iva",
+            "name":"Demo",
             "done":
             [
                 {
                     "id":1,
-                    "taskDone":"Očistila macama"
+                    "taskDone":"Smeće"
                 },
                 {
                     "id":2,
@@ -36,16 +36,16 @@
         },
         {
             "id":3,
-            "name":"Iva",
+            "name":"Demo",
             "done":
             [
                 {
                     "id":1,
-                    "taskDone":"Očistila macama"
+                    "taskDone":"Očistila mačkama"
                 },
                 {
                     "id":2,
-                    "taskDone":"Pospremila robu u sobi"
+                    "taskDone":"Oprala suđe"
                 }
             ],
             "duration":"1:15",
