@@ -1,54 +1,59 @@
 {
-    "events":[
+    "users":[
         {
-            "id":1,
-            "name":"Kiki",
-            "done":
-            [
-                {
-                    "id":1,
-                    "taskDone":"Pospremio kuhinju"
-                },
-                {
-                    "id":2,
-                    "taskDone":"Očistio WC"
-                }
-            ],
-            "duration":"00:33",
+            "Action": "INSERT"
+			"MDMPersonId": "1",
+            "ADID": "Kiki",
+            "MobilePhone": "+16305551211"
             "timeCompleted":"2019-12-25T15:45Z"
         },
         {
-            "id":2,
-            "name":"Demo",
-            "done":
-            [
-                {
-                    "id":1,
-                    "taskDone":"Smeće"
-                },
-                {
-                    "id":2,
-                    "taskDone":"Pospremila robu u sobi"
-                }
-            ],
-            "duration":"1:15",
+			"Action": "UPDATE"
+            "MDMPersonId": "2",
+            "ADID":"Demo",
+            "MobilePhone": "+16305551212"
             "timeCompleted":"2019-12-27T11:25Z"
         },
         {
-            "id":3,
-            "name":"Demo",
-            "done":
-            [
-                {
-                    "id":1,
-                    "taskDone":"Očistila mačkama"
-                },
-                {
-                    "id":2,
-                    "taskDone":"Oprala suđe"
-                }
-            ],
-            "duration":"1:15",
+			"Action": "DELETE"
+            "MDMPersonId": "3",
+            "ADID":"Demo",
+            "MobilePhone": "+16305551213"
+            "timeCompleted":"2020-04-22T11:25Z"
+        },
+		{
+			"Action": "INSERT"
+            "MDMPersonId": "4",
+            "ADID":"Demo",
+            "MobilePhone": "+16305551214"
+            "timeCompleted":"2020-04-22T11:25Z"
+        },
+		{
+			"Action": "INSERT"
+            "MDMPersonId": "5",
+            "ADID":"Demo",
+            "MobilePhone": "+16305551215"
+            "timeCompleted":"2020-01-04T11:25Z"
+        },
+		{
+			"Action": "UPDATE"
+            "MDMPersonId": "6",
+            "ADID":"Demo",
+            "MobilePhone": "+16305551216"
+            "timeCompleted":"2020-04-22T11:25Z"
+        },
+		{
+			"Action": "INSERT"
+            "MDMPersonId": "7",
+            "ADID":"Demo",
+            "MobilePhone": "+16305551217"
+            "timeCompleted":"2020-01-04T11:25Z"
+        },
+		{
+			"Action": "DELETE"
+            "MDMPersonId": "8",
+            "ADID":"Demo",
+            "MobilePhone": "+16305551218"
             "timeCompleted":"2020-01-04T11:25Z"
         }
     ]
