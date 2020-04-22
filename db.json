@@ -2,7 +2,7 @@
     "users":[
         {
             "Action": "INSERT",
-	     "MDMPersonId": "1",
+		"MDMPersonId": "1",
             "ADID": "Kiki",
             "MobilePhone": "+16305551211",
             "timeCompleted":"2019-12-25T15:45Z"
@@ -50,7 +50,7 @@
             "timeCompleted":"2020-01-04T11:25Z"
         },
 		{
-			"Action": "DELETE"
+			"Action": "DELETE",
             "MDMPersonId": "8",
             "ADID":"Demo",
             "MobilePhone": "+16305551218"
