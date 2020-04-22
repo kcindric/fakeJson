@@ -53,7 +53,7 @@
 			"Action": "DELETE",
             "MDMPersonId": "8",
             "ADID":"Demo",
-            "MobilePhone": null
+            "MobilePhone": null,
             "timeCompleted": null
         }
     ]
