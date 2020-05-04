@@ -1,60 +1,50 @@
 {
-    "users":[
+    "People":[
         {
             "Action": "INSERT",
-		"MDMPersonId": "1",
-            "ADID": "MC00001",
-            "MobilePhone": null,
-            "timeCompleted":"2019-12-25T15:45Z"
+		"RowInsertDate":"2020-04-25T15:45Z",
+		"RowUpdateDate":null,
+		"RowDeleteDate":null,
+		"MDMPersonId": "433591",
+            "ADID": "MC24981",
+            "MobilePhone": "+16302093611"
+            
         },
         {
 			"Action": "UPDATE",
-            "MDMPersonId": "2",
-            "ADID":"MC00002",
-            "MobilePhone": "+16305551212",
-            "timeCompleted":"2019-12-27T11:25Z"
+		"RowInsertDate":"2020-04-25T15:45Z",
+		"RowUpdateDate":null,
+		"RowDeleteDate":null,
+		"MDMPersonId": "433592",
+            "ADID":"MC24982",
+            "MobilePhone": "+16302093612"
         },
         {
 			"Action": "DELETE",
-            "MDMPersonId": "3",
-            "ADID":"MC00003",
-            "MobilePhone": "+16305551213",
-            "timeCompleted":"2020-04-22T11:25Z"
+		"RowInsertDate":"2020-04-25T15:45Z",
+		"RowUpdateDate":null,
+		"RowDeleteDate":null,
+		"MDMPersonId": "433593",
+            "ADID": "MC24981",
+            "MobilePhone": "+16302093613"
         },
 		{
 			"Action": "INSERT",
-            "MDMPersonId": "4",
-            "ADID": null,
-            "MobilePhone": "+16305551214",
-            "timeCompleted":"2020-04-22T11:25Z"
+		"RowInsertDate":"2020-04-25T15:45Z",
+		"RowUpdateDate":null,
+		"RowDeleteDate":null,
+		"MDMPersonId": "433594",
+            "ADID": "MC24981",
+            "MobilePhone": "+16302093614"
         },
 		{
 			"Action": "INSERT",
-            "MDMPersonId": "5",
-            "ADID":"MC00004",
-            "MobilePhone": "+16305551215",
-            "timeCompleted":"2020-01-04T11:25Z"
-        },
-		{
-			"Action": "UPDATE",
-            "MDMPersonId": "6",
-            "ADID":"MC00005",
-            "MobilePhone": "+16305551216",
-            "timeCompleted":"2020-04-22T11:25Z"
-        },
-		{
-			"Action": "INSERT",
-            "MDMPersonId": "7",
-            "ADID":"MC00006",
-            "MobilePhone": "+16305551217",
-            "timeCompleted":"2020-01-04T11:25Z"
-        },
-		{
-			"Action": "DELETE",
-            "MDMPersonId": "8",
-            "ADID":"Demo",
-            "MobilePhone": null,
-            "timeCompleted": null
+		"RowInsertDate":"2020-04-25T15:45Z",
+		"RowUpdateDate":null,
+		"RowDeleteDate":null,
+		"MDMPersonId": "433595",
+            "ADID": "MC24981",
+            "MobilePhone": "+16302093615"
         }
     ]
 }
