@@ -20,6 +20,15 @@
 		"MDMPersonId": "141015",
             "ADID":"mc181780",
             "MobilePhone": "+16302093612"
+        },
+	{
+			"Action": "UPDATE",
+		"RowInsertDate":"2020-04-25T15:45Z",
+		"RowUpdateDate":null,
+		"RowDeleteDate":null,
+		"MDMPersonId": "132830",
+            "ADID":"mc158731",
+            "MobilePhone": "+16302093613"
         }
     ]
 }
