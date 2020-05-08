@@ -22,7 +22,7 @@
             "MobilePhone": "+16302093612"
         },
 	{
-			"Action": "UPDATE",
+			"Action": "INSERT",
 		"RowInsertDate":"2020-04-25T15:45Z",
 		"RowUpdateDate":null,
 		"RowDeleteDate":null,
