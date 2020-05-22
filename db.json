@@ -2,67 +2,13 @@
   "People": {
     "People": [
       {
-        "Action": "INSERT",
-        "RowInsertDate": "2020-04-25T15:45Z",
-        "RowUpdateDate": null,
-        "RowDeleteDate": null,
-        "MDMPersonId": "142245",
-        "ADID": "mc183284",
-        "MobilePhone": "+16302093611"
-      },
-      {
         "Action": "UPDATE",
         "RowInsertDate": null,
         "RowUpdateDate": "2020-05-21T15:24Z",
         "RowDeleteDate": null,
         "MDMPersonId": "111381",
         "ADID": "ed000536",
-        "MobilePhone": "+11111111111"
-      },
-      {
-        "Action": "DELETE",
-        "RowInsertDate": null,
-        "RowUpdateDate": null,
-        "RowDeleteDate": "2020-05-26T15:45Z",
-        "MDMPersonId": "142245",
-        "ADID": "mc183284",
-        "MobilePhone": "+22222222222"
-      },
-      {
-        "Action": "UPDATE",
-        "RowInsertDate": "2020-04-25T15:45Z",
-        "RowUpdateDate": null,
-        "RowDeleteDate": null,
-        "MDMPersonId": "141015",
-        "ADID": "mc181780",
-        "MobilePhone": "+16302093612"
-      },
-      {
-        "Action": "INSERT",
-        "RowInsertDate": "2020-04-25T15:45Z",
-        "RowUpdateDate": null,
-        "RowDeleteDate": null,
-        "MDMPersonId": "137205",
-        "ADID": "mc179763",
-        "MobilePhone": "+16302093616"
-      },
-      {
-        "Action": "INSERT",
-        "RowInsertDate": "2020-04-25T15:45Z",
-        "RowUpdateDate": null,
-        "RowDeleteDate": null,
-        "MDMPersonId": "135079",
-        "ADID": "mc160062",
-        "MobilePhone": "+16302093616"
-      },
-      {
-        "Action": "UPDATE",
-        "RowInsertDate": null,
-        "RowUpdateDate": "2020-05-25T15:45Z",
-        "RowDeleteDate": null,
-        "MDMPersonId": "135079",
-        "ADID": "mc160062",
-        "MobilePhone": "+33333333333"
+        "MobilePhone": "+11111111112"
       }
     ]
   }
