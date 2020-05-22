@@ -2,24 +2,6 @@
   "People": {
     "People": [
       {
-        "Action": "UPDATE",
-        "RowInsertDate": null,
-        "RowUpdateDate": "2020-05-22T09:24Z",
-        "RowDeleteDate": null,
-        "MDMPersonId": "111381",
-        "ADID": "ed000536",
-        "MobilePhone": "+11111111112"
-      },
-      {
-        "Action": "UPDATE",
-        "RowInsertDate": null,
-        "RowUpdateDate": "2020-04-25T15:45Z",
-        "RowDeleteDate": null,
-        "MDMPersonId": "111381",
-        "ADID": "ed000536",
-        "MobilePhone": "+16302093611"
-      },
-      {
         "Action": "INSERT",
         "RowInsertDate": "2020-05-22T12:41Z",
         "RowUpdateDate": null,
@@ -27,6 +9,15 @@
         "MDMPersonId": "113835",
         "ADID": null,
         "MobilePhone": "+16302093612"
+      },
+      {
+        "Action": "DELETE",
+        "RowInsertDate": null,
+        "RowUpdateDate": null,
+        "RowDeleteDate": "2020-04-22T12:41Z",
+        "MDMPersonId": "113835",
+        "ADID": null,
+        "MobilePhone":null
       }
     ]
   }
