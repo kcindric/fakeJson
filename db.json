@@ -10,7 +10,7 @@
         "ADID": "ed000536",
         "MobilePhone": "+11111111112"
       },
-        "Action": "INSERT",
+        "Action": "UPDATE",
         "RowInsertDate": null,
         "RowUpdateDate": "2020-04-25T15:45Z",
         "RowDeleteDate": null,
