@@ -9,6 +9,24 @@
         "MDMPersonId": null,
         "ADID": "mc91057",
         "MobilePhone": "+1111111111"
+      },
+      {
+        "Action": "DELETE",
+        "RowInsertDate": "2020-07-02T05:32Z",
+        "RowUpdateDate": null,
+        "RowDeleteDate": null,
+        "MDMPersonId": null,
+        "ADID": "mc91057",
+        "MobilePhone": "+1111111111"
+      },
+      {
+        "Action": "INSERT",
+        "RowInsertDate": "2020-06-01T04:32Z",
+        "RowUpdateDate": null,
+        "RowDeleteDate": null,
+        "MDMPersonId": null,
+        "ADID": "mc91057",
+        "MobilePhone": "+1111111111"
       }
     ]
   }
