@@ -3,29 +3,11 @@
     "People": [
       {
         "Action": "INSERT",
-        "RowInsertDate": "2020-06-02T04:32Z",
-        "RowUpdateDate": null,
-        "RowDeleteDate": null,
-        "MDMPersonId": null,
-        "ADID": "mc91057",
-        "MobilePhone": "+11111111111"
-      },
-      {
-        "Action": "DELETE",
-        "RowInsertDate": "2020-07-02T05:32Z",
-        "RowUpdateDate": null,
-        "RowDeleteDate": null,
-        "MDMPersonId": null,
-        "ADID": "mc91057",
-        "MobilePhone": "+11111111111"
-      },
-      {
-        "Action": "INSERT",
         "RowInsertDate": "2020-06-01T04:32Z",
         "RowUpdateDate": null,
         "RowDeleteDate": null,
-        "MDMPersonId": null,
-        "ADID": "mc91057",
+        "MDMPersonId": 9999999999,
+        "ADID": null,
         "MobilePhone": "+11111111111"
       }
     ]
